@@ -19,9 +19,25 @@ I am a Junior Fullstack developer with a background in administration and accoun
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
 
-## PROJECTS
+## Projects
+
+- Final Bootcamp Project:
 
 "[All on Board](https://all-onboard.netlify.app/)" is a Full-Stack and single page application with React, MERN Stack, GoogleMaps, GeoCode, MongoDBAtlas, etc. Developed in two week. You can see the client code [here](https://github.com/HugoHap/All-on-Board-Client) and the server code [here](https://github.com/HugoHap/All-on-Board-Server).
+
+React | React-bootstrap | HTML5 | CSS3 | Javascript | Express | Node.js | MongoDB | Mongoose
+
+- First Project:
+
+"[PANG](https://hugohap.github.io/Pang_Game/)" Redesign of classical arcade game Pang, developed with Canvas and Dom manipulation. You can see the code [here](https://github.com/HugoHap/Pang_Game).
+
+HTML5 | CSS3 | JavaScript | Canvas
+
+- Second Project:
+
+"[The_Match_Point](https://hugohap.github.io/Pang_Game/)" Website to book courts and join padel matches. You can see the code [here](https://github.com/HugoHap/Project_PadelReserva).
+
+HTML5 | CSS3 | JavaScript | Express.js | Node.js | MongoDB | Google Maps API | HBS | Bootstrap | Mongoose
 
 ## Badges
 
